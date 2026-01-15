@@ -42,7 +42,7 @@ Output: False  - The words are not anagrams
 
 ## Time and Space Complexity
 
-# Time Complexity:
+## Time Complexity:
 Let n be the length of the input strings.
 
 Counting letters in the first string → O(n)
@@ -55,7 +55,7 @@ O(n) + O(n) = O(n)
 
 The program scales linearly with the length of the input strings.
 
-# Space Complexity:
+## Space Complexity:
 
 A JavaScript object (count) is used to store the frequency of characters in the first string.
 
